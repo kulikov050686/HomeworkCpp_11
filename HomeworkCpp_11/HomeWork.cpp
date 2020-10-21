@@ -100,7 +100,7 @@ void HomeWork::Task3()
 	system("cls");
 	setlocale(LC_ALL, "Russian.utf8");
 
-	std::vector<int> vec(5);
+	std::vector<int> vec(20);
 	int number = 0;
 	int k = 0;
 
